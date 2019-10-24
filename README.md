@@ -1,5 +1,4 @@
 # Webdesign basisstructuur
 Basisstructuur voor webruimte bij OPO's Webdesign essentials en Webdesign met HTML5.
 
-Ontwikkelaar: VOORNAAM NAAM  
-Klas: KLAS
+Ontwikkelaar: VOORNAAM NAAM
